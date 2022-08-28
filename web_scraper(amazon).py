@@ -1,9 +1,3 @@
-"""
-    Amazon Web scraper
-
-    Modified:   2020-12-20
-    Author:     Israel Dryer
-"""
 import csv
 from time import sleep
 from datetime import datetime
